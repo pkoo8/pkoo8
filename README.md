@@ -17,6 +17,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
+```text
+C++        8 hrs 42 mins   █████████████████▒░░░░░░░   69.49 % 
+C          1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Python     1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Markdown   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Text       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+```
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pkoo8.pkoo8)
