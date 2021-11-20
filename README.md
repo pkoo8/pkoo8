@@ -17,7 +17,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm a Night 🦉** 
 
@@ -78,7 +78,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 19/11/2021
+ Last Updated on 20/11/2021
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pkoo8.pkoo8)
