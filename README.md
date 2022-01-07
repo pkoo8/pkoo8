@@ -46,19 +46,16 @@ Sunday       8 commits      ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   45 mins             ██████████████████░░░░░░░   75.33% 
-Text                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.85% 
-C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.82%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Placement Preparation    45 mins             ██████████████████░░░░░░░   75.33% 
-Coding                   14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,7 +70,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 06/01/2022
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pkoo8.pkoo8)
