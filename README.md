@@ -17,6 +17,8 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -70,7 +72,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 06/05/2022 18:50:17 UTC
+ Last Updated on 07/05/2022 18:48:11 UTC
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pkoo8.pkoo8)
