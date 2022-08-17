@@ -17,7 +17,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,20 +48,16 @@ Sunday       5 commits      ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 3 mins         █████████████████████░░░░   87.3% 
-Git                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Placement-Preparation    1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,7 +72,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 22/07/2022 18:51:45 UTC
+ Last Updated on 17/08/2022 18:52:04 UTC
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pkoo8.pkoo8)
