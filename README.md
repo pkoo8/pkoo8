@@ -17,9 +17,49 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌃 Evening    14 commits     ███████████████████░░░░░░   77.78% 
+🌙 Night      4 commits      █████░░░░░░░░░░░░░░░░░░░░   22.22%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       6 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+Tuesday      5 commits      ███████░░░░░░░░░░░░░░░░░░   27.78% 
+Wednesday    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       5 commits      ███████░░░░░░░░░░░░░░░░░░   27.78%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 
 **I Mostly Code in C++** 
 
@@ -32,7 +72,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 04/09/2022 18:49:00 UTC
+ Last Updated on 05/09/2022 18:51:59 UTC
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pkoo8.pkoo8)
